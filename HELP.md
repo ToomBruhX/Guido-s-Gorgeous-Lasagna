@@ -27,7 +27,7 @@ Windows
 PS C:\Users\foobar> cd {path\to\exercise-folder-location}
 ```
 
-<br>
+<br>x
 
 Next, run the `pytest` command in your terminal, replacing `{exercise_test.py}` with the name of the test file:
 
